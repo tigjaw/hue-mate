@@ -1,8 +1,7 @@
 # hue-mate
 
 ## todo
-almost everything!
-stay tuned
+- almost everything! Stay tuned.
 
 ## useful resources
 - [pieroxy - colour finder](https://pieroxy.net/blog/pages/color-finder/demo.html)
